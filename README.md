@@ -16,7 +16,7 @@
 <li>Python</li>
 <li>Flutter/Dart</li>
 <li>C/C++</li>
-<li>Arduino/Arduino-Based Devices, ESP8226, etc</li>
+<li>Arduino/Arduino-Based Devices, ESP8266, etc</li>
 <li>Assembly</li>
 <li>VHDL</li>
 <li>Javascript odds and ends, Express, React, JQuery, Typescript</li>
