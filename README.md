@@ -24,3 +24,13 @@
 <li>Firebase</li>
 <li>I dunno, I guess I can use Figma???</li>
 </ul>
+
+<h1>
+Github Pages:
+</h1>
+
+<ul>
+<li>https://gregsym.github.io/conway_game_of_life/</li>
+<li>https://gregsym.github.io/wavy_podcast_app/</li>
+</ul>
+
