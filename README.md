@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  I'm interested in software dev and IoT projects. I also figure I know enough about python that I'm obliged to do at least some machine learning at this point
+  I'm interested in software dev and IoT projects.
 </p>
 
 <h1>✨ Tech Stack:</h1>
