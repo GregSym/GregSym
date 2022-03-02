@@ -32,5 +32,6 @@ Github Pages:
 <ul>
 <li>https://gregsym.github.io/conway_game_of_life/</li>
 <li>https://gregsym.github.io/wavy_podcast_app/</li>
+<li>https://gregsym.github.io/infinite-chessboard/ (very early dev)</li> 
 </ul>
 
