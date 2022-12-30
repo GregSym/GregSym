@@ -16,6 +16,7 @@
 <li>Python</li>
 <li>Flutter/Dart</li>
 <li>C/C++</li>
+<li>C#/VBScript/.NET stuff</li>
 <li>Arduino/Arduino-Based Devices, ESP8266, etc</li>
 <li>Assembly</li>
 <li>VHDL</li>
