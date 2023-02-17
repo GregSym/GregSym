@@ -19,6 +19,7 @@
 <li>C#/VBScript/.NET stuff</li>
 <li>Arduino/Arduino-Based Devices, ESP8266, etc</li>
 <li>Assembly</li>
+<li>Rust</li>
 <li>VHDL</li>
 <li>Javascript odds and ends, Express, React, JQuery, Typescript</li>
 <li>SQL</li>
