@@ -18,11 +18,12 @@
 <li>C/C++</li>
 <li>C#/VBScript/.NET stuff</li>
 <li>Arduino/Arduino-Based Devices, ESP8266, etc</li>
-<li>Assembly</li>
-<li>Rust</li>
-<li>VHDL</li>
+<li>PLC languages: LADDER, SFC</li>
 <li>Javascript odds and ends, Express, React, JQuery, Typescript</li>
 <li>SQL</li>
+<li>Rust</li>
+<li>VHDL</li>
+<li>Assembly - PIC, x86</li>
 <li>Firebase</li>
 <li>I dunno, I guess I can use Figma???</li>
 </ul>
