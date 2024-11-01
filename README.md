@@ -18,7 +18,7 @@
 <li>C/C++</li>
 <li>C#/VBScript/.NET stuff</li>
 <li>Arduino/Arduino-Based Devices, ESP8266, etc</li>
-<li>PLC languages: LADDER, SFC</li>
+<li>PLC languages: LADDER, SFC, ST</li>
 <li>Javascript odds and ends, Express, React, JQuery, Typescript</li>
 <li>SQL</li>
 <li>Rust</li>
